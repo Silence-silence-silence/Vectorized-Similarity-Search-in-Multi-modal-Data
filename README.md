@@ -1,6 +1,6 @@
 # Vectorized-Similarity-Search-in-Multi-modal-Data
-1. Introduction
-6 Nowadays, the aim of machine learning and artificial intelligence is to train the datasets we collect under the current
+
+  Nowadays, the aim of machine learning and artificial intelligence is to train the datasets we collect under the current
 7 condition and predict the trend in the future, doing enormous calculations that human beings will take for a while. Traditional
 8 machine learning focus on a single type of data, such as text, images, xml, etc. However, this is sort of violating what a
 9 machine can really do because a machine exports images, text, audio,..., and all kinds of data synchronously. It is also like
